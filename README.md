@@ -117,7 +117,7 @@ Find your IP:
 ## 👥 Team
 
 **Bulacan State University**  
-College of Information and Communications Technology
+College of Science
 
 ---
 
@@ -127,4 +127,3 @@ This project is developed as part of an academic thesis at Bulacan State Univers
 
 ---
 
-*Made with ❤️ for BulSU*
