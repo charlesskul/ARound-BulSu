@@ -1,0 +1,2547 @@
+{
+  "nodes": {
+    "node_1766027517126": {
+      "id": "node_1766027517126",
+      "name": "Main Gate",
+      "type": "gate",
+      "coordinates": {
+        "latitude": 14.857233255957567,
+        "longitude": 120.81228448597614
+      },
+      "description": ""
+    },
+    "node_1766027558716": {
+      "id": "node_1766027558716",
+      "name": "Alvarado Hall",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.857681620939061,
+        "longitude": 120.8124802446572
+      },
+      "description": ""
+    },
+    "node_1766027650192": {
+      "id": "node_1766027650192",
+      "name": "Activity Center",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.857219395910235,
+        "longitude": 120.8129030750444
+      },
+      "description": ""
+    },
+    "node_1766027679186": {
+      "id": "node_1766027679186",
+      "name": "College of HE",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.858325948896493,
+        "longitude": 120.81322448232385
+      },
+      "description": ""
+    },
+    "node_1766027709349": {
+      "id": "node_1766027709349",
+      "name": "Pimentel Hall",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.856935912552984,
+        "longitude": 120.81336476051229
+      },
+      "description": ""
+    },
+    "node_1766027727927": {
+      "id": "node_1766027727927",
+      "name": "Carpio Hall",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.857784634218262,
+        "longitude": 120.81360231460889
+      },
+      "description": ""
+    },
+    "node_1766027763346": {
+      "id": "node_1766027763346",
+      "name": "Natividad Hall",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.857567730912479,
+        "longitude": 120.81455662474667
+      },
+      "description": ""
+    },
+    "node_1766027832167": {
+      "id": "node_1766027832167",
+      "name": "Roxas Hall",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.85738917344706,
+        "longitude": 120.81390383052491
+      },
+      "description": ""
+    },
+    "node_1766027857930": {
+      "id": "node_1766027857930",
+      "name": "Flores Hall",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.857859766720239,
+        "longitude": 120.81506068389575
+      },
+      "description": ""
+    },
+    "node_1766027897795": {
+      "id": "node_1766027897795",
+      "name": "Gate 3",
+      "type": "gate",
+      "coordinates": {
+        "latitude": 14.857965515967209,
+        "longitude": 120.81589583136287
+      },
+      "description": ""
+    },
+    "node_1766027927626": {
+      "id": "node_1766027927626",
+      "name": "Gate 2",
+      "type": "gate",
+      "coordinates": {
+        "latitude": 14.857348242757595,
+        "longitude": 120.8143078104361
+      },
+      "description": ""
+    },
+    "node_1766027941943": {
+      "id": "node_1766027941943",
+      "name": "Fedirizo Hall",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.858024881272328,
+        "longitude": 120.81459070028774
+      },
+      "description": ""
+    },
+    "node_1766027974836": {
+      "id": "node_1766027974836",
+      "name": "CSSP",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.859158173245007,
+        "longitude": 120.81494335414197
+      },
+      "description": ""
+    },
+    "node_1766027994037": {
+      "id": "node_1766027994037",
+      "name": "Gate 4",
+      "type": "gate",
+      "coordinates": {
+        "latitude": 14.859653013992926,
+        "longitude": 120.81438427634112
+      },
+      "description": ""
+    },
+    "node_1766045335899": {
+      "id": "node_1766045335899",
+      "name": "Valencia Hall",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.858168420140814,
+        "longitude": 120.81506205846642
+      },
+      "description": ""
+    },
+    "node_1766045364458": {
+      "id": "node_1766045364458",
+      "name": "Heroes Park",
+      "type": "evacuation",
+      "coordinates": {
+        "latitude": 14.857908227317225,
+        "longitude": 120.81423102913698
+      },
+      "description": ""
+    },
+    "node_1766045394495": {
+      "id": "node_1766045394495",
+      "name": "College of Business Administration",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.858089009869943,
+        "longitude": 120.81407661045745
+      },
+      "description": ""
+    },
+    "node_1766045425975": {
+      "id": "node_1766045425975",
+      "name": "College of Law",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.857614993863308,
+        "longitude": 120.81336326444818
+      },
+      "description": ""
+    },
+    "node_1766045486694": {
+      "id": "node_1766045486694",
+      "name": "E-Library",
+      "type": "building_entrance",
+      "coordinates": {
+        "latitude": 14.858324800831255,
+        "longitude": 120.8136145298754
+      },
+      "description": ""
+    },
+    "node_1766467535149": {
+      "id": "node_1766467535149",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.85762475973911,
+        "longitude": 120.81275455211028
+      },
+      "description": ""
+    },
+    "node_1766467542717": {
+      "id": "node_1766467542717",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.857143519090869,
+        "longitude": 120.81321851797543
+      },
+      "description": ""
+    },
+    "node_1766467548081": {
+      "id": "node_1766467548081",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.857067845170931,
+        "longitude": 120.81329994095927
+      },
+      "description": ""
+    },
+    "node_1766467553308": {
+      "id": "node_1766467553308",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.857323622898676,
+        "longitude": 120.81357396060025
+      },
+      "description": ""
+    },
+    "node_1766467559338": {
+      "id": "node_1766467559338",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.857877554720929,
+        "longitude": 120.8130494086816
+      },
+      "description": ""
+    },
+    "node_1766467565280": {
+      "id": "node_1766467565280",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.858284582740666,
+        "longitude": 120.81351352172732
+      },
+      "description": ""
+    },
+    "node_1766467573388": {
+      "id": "node_1766467573388",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.857883037258702,
+        "longitude": 120.81389730791307
+      },
+      "description": ""
+    },
+    "node_1766467578941": {
+      "id": "node_1766467578941",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.857560116727143,
+        "longitude": 120.8141407343553
+      },
+      "description": ""
+    },
+    "node_1766467584055": {
+      "id": "node_1766467584055",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.85817834797136,
+        "longitude": 120.81423760732315
+      },
+      "description": ""
+    },
+    "node_1766467589747": {
+      "id": "node_1766467589747",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.857878235695537,
+        "longitude": 120.81450214811821
+      },
+      "description": ""
+    },
+    "node_1766467595041": {
+      "id": "node_1766467595041",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.857817012740156,
+        "longitude": 120.81458411850656
+      },
+      "description": ""
+    },
+    "node_1766467601400": {
+      "id": "node_1766467601400",
+      "name": "New Intersection",
+      "type": "intersection",
+      "coordinates": {
+        "latitude": 14.858482058321528,
+        "longitude": 120.8154174786327
+      },
+      "description": ""
+    },
+    "node_1766467664453": {
+      "id": "node_1766467664453",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857429068288113,
+        "longitude": 120.81245386876856
+      },
+      "description": ""
+    },
+    "node_1766467670885": {
+      "id": "node_1766467670885",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857501636388918,
+        "longitude": 120.81253847147644
+      },
+      "description": ""
+    },
+    "node_1766467675452": {
+      "id": "node_1766467675452",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85758774337576,
+        "longitude": 120.8126454860602
+      },
+      "description": ""
+    },
+    "node_1766467679649": {
+      "id": "node_1766467679649",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85770634330126,
+        "longitude": 120.81279059937049
+      },
+      "description": ""
+    },
+    "node_1766467682404": {
+      "id": "node_1766467682404",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857794616417863,
+        "longitude": 120.81288864938216
+      },
+      "description": ""
+    },
+    "node_1766467688400": {
+      "id": "node_1766467688400",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85787422417809,
+        "longitude": 120.8129620459593
+      },
+      "description": ""
+    },
+    "node_1766467693899": {
+      "id": "node_1766467693899",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857817319202965,
+        "longitude": 120.81305571001542
+      },
+      "description": ""
+    },
+    "node_1766467699217": {
+      "id": "node_1766467699217",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857767599279015,
+        "longitude": 120.81295221065432
+      },
+      "description": ""
+    },
+    "node_1766467701805": {
+      "id": "node_1766467701805",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857679541070269,
+        "longitude": 120.81285676812928
+      },
+      "description": ""
+    },
+    "node_1766467707054": {
+      "id": "node_1766467707054",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857621434033845,
+        "longitude": 120.8127966523918
+      },
+      "description": ""
+    },
+    "node_1766467714762": {
+      "id": "node_1766467714762",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857777183153374,
+        "longitude": 120.81310404951694
+      },
+      "description": ""
+    },
+    "node_1766467717279": {
+      "id": "node_1766467717279",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85771668058102,
+        "longitude": 120.81316168688556
+      },
+      "description": ""
+    },
+    "node_1766467720432": {
+      "id": "node_1766467720432",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857877820856658,
+        "longitude": 120.81309599238398
+      },
+      "description": ""
+    },
+    "node_1766467722470": {
+      "id": "node_1766467722470",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857834690332965,
+        "longitude": 120.81313007900036
+      },
+      "description": ""
+    },
+    "node_1766467726337": {
+      "id": "node_1766467726337",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857781975235895,
+        "longitude": 120.81317903977697
+      },
+      "description": ""
+    },
+    "node_1766467728362": {
+      "id": "node_1766467728362",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857717279417429,
+        "longitude": 120.81324659325162
+      },
+      "description": ""
+    },
+    "node_1766467733820": {
+      "id": "node_1766467733820",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85763940511697,
+        "longitude": 120.81323109855242
+      },
+      "description": ""
+    },
+    "node_1766467738022": {
+      "id": "node_1766467738022",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857574110571875,
+        "longitude": 120.81329617194797
+      },
+      "description": ""
+    },
+    "node_1766467740990": {
+      "id": "node_1766467740990",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857655579457472,
+        "longitude": 120.81330980611892
+      },
+      "description": ""
+    },
+    "node_1766467751837": {
+      "id": "node_1766467751837",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857377356258795,
+        "longitude": 120.81250417973632
+      },
+      "description": ""
+    },
+    "node_1766467754309": {
+      "id": "node_1766467754309",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85744977889243,
+        "longitude": 120.81259273064967
+      },
+      "description": ""
+    },
+    "node_1766467757618": {
+      "id": "node_1766467757618",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857534546262002,
+        "longitude": 120.81268383591782
+      },
+      "description": ""
+    },
+    "node_1766467760311": {
+      "id": "node_1766467760311",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85758804064072,
+        "longitude": 120.81274939670277
+      },
+      "description": ""
+    },
+    "node_1766467763473": {
+      "id": "node_1766467763473",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857563350336221,
+        "longitude": 120.8127877097453
+      },
+      "description": ""
+    },
+    "node_1766467765985": {
+      "id": "node_1766467765985",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857512325555092,
+        "longitude": 120.81283879584623
+      },
+      "description": ""
+    },
+    "node_1766467768899": {
+      "id": "node_1766467768899",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857453893866648,
+        "longitude": 120.81289413945814
+      },
+      "description": ""
+    },
+    "node_1766467771474": {
+      "id": "node_1766467771474",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857378179589588,
+        "longitude": 120.81296651070443
+      },
+      "description": ""
+    },
+    "node_1766467774493": {
+      "id": "node_1766467774493",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857308225886669,
+        "longitude": 120.8130312209887
+      },
+      "description": ""
+    },
+    "node_1766467776556": {
+      "id": "node_1766467776556",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.8572349802199,
+        "longitude": 120.81310274288012
+      },
+      "description": ""
+    },
+    "node_1766467780004": {
+      "id": "node_1766467780004",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857144451642398,
+        "longitude": 120.8131955496874
+      },
+      "description": ""
+    },
+    "node_1766467797156": {
+      "id": "node_1766467797156",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857952959788179,
+        "longitude": 120.81306146086666
+      },
+      "description": ""
+    },
+    "node_1766467799831": {
+      "id": "node_1766467799831",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858029748242728,
+        "longitude": 120.81315294269046
+      },
+      "description": ""
+    },
+    "node_1766467802581": {
+      "id": "node_1766467802581",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858118170973086,
+        "longitude": 120.81325004087006
+      },
+      "description": ""
+    },
+    "node_1766467804987": {
+      "id": "node_1766467804987",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858191856807423,
+        "longitude": 120.81333911527742
+      },
+      "description": ""
+    },
+    "node_1766467810203": {
+      "id": "node_1766467810203",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858295016913459,
+        "longitude": 120.81345788094109
+      },
+      "description": ""
+    },
+    "node_1766467885678": {
+      "id": "node_1766467885678",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857047362898555,
+        "longitude": 120.81331221475932
+      },
+      "description": ""
+    },
+    "node_1766469483155": {
+      "id": "node_1766469483155",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.856901173611249,
+        "longitude": 120.8130162635091
+      },
+      "description": ""
+    },
+    "node_1766469487414": {
+      "id": "node_1766469487414",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.856959877126954,
+        "longitude": 120.81308627620507
+      },
+      "description": ""
+    },
+    "node_1766469489169": {
+      "id": "node_1766469489169",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857021841930944,
+        "longitude": 120.81316135005858
+      },
+      "description": ""
+    },
+    "node_1766469492439": {
+      "id": "node_1766469492439",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85709522128171,
+        "longitude": 120.81322630159565
+      },
+      "description": ""
+    },
+    "node_1766469502017": {
+      "id": "node_1766469502017",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.856855174272354,
+        "longitude": 120.81306235170177
+      },
+      "description": ""
+    },
+    "node_1766469504123": {
+      "id": "node_1766469504123",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.856808612050983,
+        "longitude": 120.81312323658653
+      },
+      "description": ""
+    },
+    "node_1766469507921": {
+      "id": "node_1766469507921",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85675299605137,
+        "longitude": 120.81318278334135
+      },
+      "description": ""
+    },
+    "node_1766469514242": {
+      "id": "node_1766469514242",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.856869401615384,
+        "longitude": 120.81325303513017
+      },
+      "description": ""
+    },
+    "node_1766469523876": {
+      "id": "node_1766469523876",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.856896310072315,
+        "longitude": 120.8133307006114
+      },
+      "description": ""
+    },
+    "node_1766469527082": {
+      "id": "node_1766469527082",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.856911641838451,
+        "longitude": 120.81343240432273
+      },
+      "description": ""
+    },
+    "node_1766469548457": {
+      "id": "node_1766469548457",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858239698575204,
+        "longitude": 120.81352253463365
+      },
+      "description": ""
+    },
+    "node_1766469553057": {
+      "id": "node_1766469553057",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85817130909507,
+        "longitude": 120.81359090492111
+      },
+      "description": ""
+    },
+    "node_1766469555384": {
+      "id": "node_1766469555384",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858105993278457,
+        "longitude": 120.81365689019975
+      },
+      "description": ""
+    },
+    "node_1766469558550": {
+      "id": "node_1766469558550",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858042982707332,
+        "longitude": 120.81371890046188
+      },
+      "description": ""
+    },
+    "node_1766469560908": {
+      "id": "node_1766469560908",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857976898429555,
+        "longitude": 120.81378091072276
+      },
+      "description": ""
+    },
+    "node_1766469564679": {
+      "id": "node_1766469564679",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857912350806004,
+        "longitude": 120.81384371565963
+      },
+      "description": ""
+    },
+    "node_1766469567663": {
+      "id": "node_1766469567663",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857939245579715,
+        "longitude": 120.81386995076986
+      },
+      "description": ""
+    },
+    "node_1766469569776": {
+      "id": "node_1766469569776",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857982277212955,
+        "longitude": 120.81382543058243
+      },
+      "description": ""
+    },
+    "node_1766469573160": {
+      "id": "node_1766469573160",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858040677071955,
+        "longitude": 120.81376660037733
+      },
+      "description": ""
+    },
+    "node_1766469579084": {
+      "id": "node_1766469579084",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858095234903189,
+        "longitude": 120.81371015514577
+      },
+      "description": ""
+    },
+    "node_1766469581936": {
+      "id": "node_1766469581936",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858132887553793,
+        "longitude": 120.8136767650052
+      },
+      "description": ""
+    },
+    "node_1766469584457": {
+      "id": "node_1766469584457",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858195129678322,
+        "longitude": 120.81361872976083
+      },
+      "description": ""
+    },
+    "node_1766469588412": {
+      "id": "node_1766469588412",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858276582306274,
+        "longitude": 120.813547179458
+      },
+      "description": ""
+    },
+    "node_1766469594710": {
+      "id": "node_1766469594710",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857956149968842,
+        "longitude": 120.8139335511413
+      },
+      "description": ""
+    },
+    "node_1766469596710": {
+      "id": "node_1766469596710",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858010707925558,
+        "longitude": 120.81400033142245
+      },
+      "description": ""
+    },
+    "node_1766469600439": {
+      "id": "node_1766469600439",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85805758165256,
+        "longitude": 120.81404723662138
+      },
+      "description": ""
+    },
+    "node_1766469605630": {
+      "id": "node_1766469605630",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85812486369035,
+        "longitude": 120.81413315283163
+      },
+      "description": ""
+    },
+    "node_1766469608069": {
+      "id": "node_1766469608069",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858175596200866,
+        "longitude": 120.81418884079062
+      },
+      "description": ""
+    },
+    "node_1766469611858": {
+      "id": "node_1766469611858",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858156416838582,
+        "longitude": 120.81424068820047
+      },
+      "description": ""
+    },
+    "node_1766469617986": {
+      "id": "node_1766469617986",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858146517811477,
+        "longitude": 120.81429829643389
+      },
+      "description": ""
+    },
+    "node_1766469620040": {
+      "id": "node_1766469620040",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858101353498071,
+        "longitude": 120.81433478164979
+      },
+      "description": ""
+    },
+    "node_1766469624386": {
+      "id": "node_1766469624386",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858067944239025,
+        "longitude": 120.81436486590934
+      },
+      "description": ""
+    },
+    "node_1766469626613": {
+      "id": "node_1766469626613",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85802587335644,
+        "longitude": 120.8143994308486
+      },
+      "description": ""
+    },
+    "node_1766469629877": {
+      "id": "node_1766469629877",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85797575950076,
+        "longitude": 120.8144448773441
+      },
+      "description": ""
+    },
+    "node_1766469632227": {
+      "id": "node_1766469632227",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85793430728937,
+        "longitude": 120.8144858431998
+      },
+      "description": ""
+    },
+    "node_1766469636273": {
+      "id": "node_1766469636273",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857866870094213,
+        "longitude": 120.81454921225685
+      },
+      "description": ""
+    },
+    "node_1766469639284": {
+      "id": "node_1766469639284",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857865632877903,
+        "longitude": 120.8146228222202
+      },
+      "description": ""
+    },
+    "node_1766469643126": {
+      "id": "node_1766469643126",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857904610722613,
+        "longitude": 120.81467466955081
+      },
+      "description": ""
+    },
+    "node_1766469645553": {
+      "id": "node_1766469645553",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857948537698078,
+        "longitude": 120.81472971741897
+      },
+      "description": ""
+    },
+    "node_1766469648347": {
+      "id": "node_1766469648347",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857994939423406,
+        "longitude": 120.81478156482882
+      },
+      "description": ""
+    },
+    "node_1766469651473": {
+      "id": "node_1766469651473",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858021543002366,
+        "longitude": 120.81482253047261
+      },
+      "description": ""
+    },
+    "node_1766469653988": {
+      "id": "node_1766469653988",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858072894129222,
+        "longitude": 120.81489358023794
+      },
+      "description": ""
+    },
+    "node_1766469657238": {
+      "id": "node_1766469657238",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.85813661912583,
+        "longitude": 120.81496655066763
+      },
+      "description": ""
+    },
+    "node_1766469660240": {
+      "id": "node_1766469660240",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858212717761546,
+        "longitude": 120.81506320425592
+      },
+      "description": ""
+    },
+    "node_1766469663420": {
+      "id": "node_1766469663420",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858273349273148,
+        "longitude": 120.8151361746855
+      },
+      "description": ""
+    },
+    "node_1766469665425": {
+      "id": "node_1766469665425",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858335218143623,
+        "longitude": 120.81521106538969
+      },
+      "description": ""
+    },
+    "node_1766469668368": {
+      "id": "node_1766469668368",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858396468228108,
+        "longitude": 120.81528595604198
+      },
+      "description": ""
+    },
+    "node_1766469670994": {
+      "id": "node_1766469670994",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858450294116068,
+        "longitude": 120.8153538057411
+      },
+      "description": ""
+    },
+    "node_1766469674212": {
+      "id": "node_1766469674212",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.858488652786761,
+        "longitude": 120.81539477159458
+      },
+      "description": ""
+    },
+    "node_1766469689336": {
+      "id": "node_1766469689336",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857878945148173,
+        "longitude": 120.81387796750204
+      },
+      "description": ""
+    },
+    "node_1766469700712": {
+      "id": "node_1766469700712",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857795741150582,
+        "longitude": 120.81393233522931
+      },
+      "description": ""
+    },
+    "node_1767325776634": {
+      "id": "node_1767325776634",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857516039492609,
+        "longitude": 120.81335627119529
+      },
+      "description": ""
+    },
+    "node_1767325781423": {
+      "id": "node_1767325781423",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857465575696992,
+        "longitude": 120.81340946561068
+      },
+      "description": ""
+    },
+    "node_1767325783578": {
+      "id": "node_1767325783578",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857412255446604,
+        "longitude": 120.81346266002441
+      },
+      "description": ""
+    },
+    "node_1767325788497": {
+      "id": "node_1767325788497",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857361791625934,
+        "longitude": 120.81350600362003
+      },
+      "description": ""
+    },
+    "node_1767325793389": {
+      "id": "node_1767325793389",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857322753568255,
+        "longitude": 120.81354737705328
+      },
+      "description": ""
+    },
+    "node_1767325796285": {
+      "id": "node_1767325796285",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857558886102723,
+        "longitude": 120.81340158495647
+      },
+      "description": ""
+    },
+    "node_1767325798841": {
+      "id": "node_1767325798841",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857501757287906,
+        "longitude": 120.81345182412429
+      },
+      "description": ""
+    },
+    "node_1767325802122": {
+      "id": "node_1767325802122",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857441772015306,
+        "longitude": 120.81350403345778
+      },
+      "description": ""
+    },
+    "node_1767325806699": {
+      "id": "node_1767325806699",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857391308201528,
+        "longitude": 120.81355131738127
+      },
+      "description": ""
+    },
+    "node_1767325809548": {
+      "id": "node_1767325809548",
+      "name": "New Walkway/Path",
+      "type": "path",
+      "coordinates": {
+        "latitude": 14.857348461558175,
+        "longitude": 120.81359860130476
+      },
+      "description": ""
+    }
+  },
+  "connections": {
+    "node_1766027517126": [],
+    "node_1766027558716": [
+      "node_1766467670885",
+      "node_1766467675452"
+    ],
+    "node_1766027650192": [
+      "node_1766467771474",
+      "node_1766467774493",
+      "node_1766467776556"
+    ],
+    "node_1766027679186": [
+      "node_1766467802581",
+      "node_1766467804987"
+    ],
+    "node_1766027709349": [
+      "node_1766467548081",
+      "node_1766467885678",
+      "node_1766469489169",
+      "node_1766469492439",
+      "node_1766469514242",
+      "node_1766469523876",
+      "node_1766469527082"
+    ],
+    "node_1766027727927": [],
+    "node_1766027763346": [],
+    "node_1766027832167": [],
+    "node_1766027857930": [],
+    "node_1766027897795": [],
+    "node_1766027927626": [],
+    "node_1766027941943": [
+      "node_1766467589747",
+      "node_1766467595041",
+      "node_1766469624386",
+      "node_1766469626613",
+      "node_1766469629877",
+      "node_1766469632227",
+      "node_1766469636273",
+      "node_1766469639284",
+      "node_1766469643126",
+      "node_1766469645553",
+      "node_1766469648347",
+      "node_1766469651473"
+    ],
+    "node_1766027974836": [],
+    "node_1766027994037": [],
+    "node_1766045335899": [
+      "node_1766469653988",
+      "node_1766469657238",
+      "node_1766469660240",
+      "node_1766469663420",
+      "node_1766469665425"
+    ],
+    "node_1766045364458": [
+      "node_1766469620040",
+      "node_1766469624386",
+      "node_1766469626613",
+      "node_1766469629877"
+    ],
+    "node_1766045394495": [
+      "node_1766467584055",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469600439",
+      "node_1766469605630",
+      "node_1766469608069",
+      "node_1766469611858",
+      "node_1766469617986"
+    ],
+    "node_1766045425975": [
+      "node_1766467717279",
+      "node_1766467728362",
+      "node_1766467733820",
+      "node_1766467738022",
+      "node_1766467740990",
+      "node_1767325776634",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325796285",
+      "node_1767325798841",
+      "node_1767325802122"
+    ],
+    "node_1766045486694": [
+      "node_1766467565280",
+      "node_1766467810203",
+      "node_1766469548457",
+      "node_1766469553057",
+      "node_1766469555384",
+      "node_1766469581936",
+      "node_1766469584457",
+      "node_1766469588412"
+    ],
+    "node_1766467535149": [
+      "node_1766467675452",
+      "node_1766467679649",
+      "node_1766467682404",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467763473",
+      "node_1766467765985",
+      "node_1766467768899"
+    ],
+    "node_1766467542717": [
+      "node_1766467548081",
+      "node_1766467776556",
+      "node_1766467780004",
+      "node_1766467885678",
+      "node_1766469487414",
+      "node_1766469489169",
+      "node_1766469492439"
+    ],
+    "node_1766467548081": [
+      "node_1766027709349",
+      "node_1766467542717",
+      "node_1766467780004",
+      "node_1766467885678",
+      "node_1766469489169",
+      "node_1766469492439",
+      "node_1766469514242",
+      "node_1766469523876",
+      "node_1766469527082"
+    ],
+    "node_1766467553308": [
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325793389",
+      "node_1767325798841",
+      "node_1767325802122",
+      "node_1767325806699",
+      "node_1767325809548"
+    ],
+    "node_1766467559338": [
+      "node_1766467682404",
+      "node_1766467688400",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467714762",
+      "node_1766467717279",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467797156",
+      "node_1766467799831"
+    ],
+    "node_1766467565280": [
+      "node_1766045486694",
+      "node_1766467804987",
+      "node_1766467810203",
+      "node_1766469548457",
+      "node_1766469553057",
+      "node_1766469581936",
+      "node_1766469584457",
+      "node_1766469588412"
+    ],
+    "node_1766467573388": [
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469689336",
+      "node_1766469700712"
+    ],
+    "node_1766467578941": [],
+    "node_1766467584055": [
+      "node_1766045394495",
+      "node_1766469600439",
+      "node_1766469605630",
+      "node_1766469608069",
+      "node_1766469611858",
+      "node_1766469617986",
+      "node_1766469620040",
+      "node_1766469624386",
+      "node_1766469626613"
+    ],
+    "node_1766467589747": [
+      "node_1766027941943",
+      "node_1766467595041",
+      "node_1766469626613",
+      "node_1766469629877",
+      "node_1766469632227",
+      "node_1766469636273",
+      "node_1766469639284",
+      "node_1766469643126"
+    ],
+    "node_1766467595041": [
+      "node_1766027941943",
+      "node_1766467589747",
+      "node_1766469629877",
+      "node_1766469632227",
+      "node_1766469636273",
+      "node_1766469639284",
+      "node_1766469643126",
+      "node_1766469645553"
+    ],
+    "node_1766467601400": [
+      "node_1766469668368",
+      "node_1766469670994",
+      "node_1766469674212"
+    ],
+    "node_1766467664453": [
+      "node_1766467670885",
+      "node_1766467751837",
+      "node_1766467754309"
+    ],
+    "node_1766467670885": [
+      "node_1766027558716",
+      "node_1766467664453",
+      "node_1766467675452",
+      "node_1766467751837",
+      "node_1766467754309",
+      "node_1766467757618",
+      "node_1766467760311"
+    ],
+    "node_1766467675452": [
+      "node_1766027558716",
+      "node_1766467535149",
+      "node_1766467670885",
+      "node_1766467679649",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467754309",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467763473",
+      "node_1766467765985"
+    ],
+    "node_1766467679649": [
+      "node_1766467535149",
+      "node_1766467675452",
+      "node_1766467682404",
+      "node_1766467699217",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467763473",
+      "node_1766467765985"
+    ],
+    "node_1766467682404": [
+      "node_1766467535149",
+      "node_1766467559338",
+      "node_1766467679649",
+      "node_1766467688400",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467714762",
+      "node_1766467720432"
+    ],
+    "node_1766467688400": [
+      "node_1766467559338",
+      "node_1766467682404",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467701805",
+      "node_1766467714762",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467797156"
+    ],
+    "node_1766467693899": [
+      "node_1766467559338",
+      "node_1766467682404",
+      "node_1766467688400",
+      "node_1766467699217",
+      "node_1766467714762",
+      "node_1766467717279",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467728362",
+      "node_1766467797156"
+    ],
+    "node_1766467699217": [
+      "node_1766467559338",
+      "node_1766467679649",
+      "node_1766467682404",
+      "node_1766467688400",
+      "node_1766467693899",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467714762",
+      "node_1766467717279",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467797156"
+    ],
+    "node_1766467701805": [
+      "node_1766467535149",
+      "node_1766467675452",
+      "node_1766467679649",
+      "node_1766467682404",
+      "node_1766467688400",
+      "node_1766467699217",
+      "node_1766467707054",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467763473",
+      "node_1766467765985"
+    ],
+    "node_1766467707054": [
+      "node_1766467535149",
+      "node_1766467675452",
+      "node_1766467679649",
+      "node_1766467682404",
+      "node_1766467699217",
+      "node_1766467701805",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467763473",
+      "node_1766467765985",
+      "node_1766467768899"
+    ],
+    "node_1766467714762": [
+      "node_1766467559338",
+      "node_1766467682404",
+      "node_1766467688400",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467717279",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467728362",
+      "node_1766467733820",
+      "node_1766467797156"
+    ],
+    "node_1766467717279": [
+      "node_1766045425975",
+      "node_1766467559338",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467714762",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467728362",
+      "node_1766467733820",
+      "node_1766467738022",
+      "node_1766467740990"
+    ],
+    "node_1766467720432": [
+      "node_1766467559338",
+      "node_1766467682404",
+      "node_1766467688400",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467714762",
+      "node_1766467717279",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467728362",
+      "node_1766467797156",
+      "node_1766467799831"
+    ],
+    "node_1766467722470": [
+      "node_1766467559338",
+      "node_1766467688400",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467714762",
+      "node_1766467717279",
+      "node_1766467720432",
+      "node_1766467726337",
+      "node_1766467728362",
+      "node_1766467733820",
+      "node_1766467797156",
+      "node_1766467799831"
+    ],
+    "node_1766467726337": [
+      "node_1766467559338",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467714762",
+      "node_1766467717279",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467728362",
+      "node_1766467733820",
+      "node_1766467740990",
+      "node_1766467797156"
+    ],
+    "node_1766467728362": [
+      "node_1766045425975",
+      "node_1766467693899",
+      "node_1766467714762",
+      "node_1766467717279",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467733820",
+      "node_1766467738022",
+      "node_1766467740990",
+      "node_1767325796285"
+    ],
+    "node_1766467733820": [
+      "node_1766045425975",
+      "node_1766467714762",
+      "node_1766467717279",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467728362",
+      "node_1766467738022",
+      "node_1766467740990",
+      "node_1767325776634",
+      "node_1767325796285"
+    ],
+    "node_1766467738022": [
+      "node_1766045425975",
+      "node_1766467717279",
+      "node_1766467728362",
+      "node_1766467733820",
+      "node_1766467740990",
+      "node_1767325776634",
+      "node_1767325781423",
+      "node_1767325796285",
+      "node_1767325798841"
+    ],
+    "node_1766467740990": [
+      "node_1766045425975",
+      "node_1766467717279",
+      "node_1766467726337",
+      "node_1766467728362",
+      "node_1766467733820",
+      "node_1766467738022",
+      "node_1767325776634",
+      "node_1767325781423",
+      "node_1767325796285",
+      "node_1767325798841"
+    ],
+    "node_1766467751837": [
+      "node_1766467664453",
+      "node_1766467670885",
+      "node_1766467754309"
+    ],
+    "node_1766467754309": [
+      "node_1766467664453",
+      "node_1766467670885",
+      "node_1766467675452",
+      "node_1766467751837",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467763473"
+    ],
+    "node_1766467757618": [
+      "node_1766467535149",
+      "node_1766467670885",
+      "node_1766467675452",
+      "node_1766467679649",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467754309",
+      "node_1766467760311",
+      "node_1766467763473",
+      "node_1766467765985",
+      "node_1766467768899"
+    ],
+    "node_1766467760311": [
+      "node_1766467535149",
+      "node_1766467670885",
+      "node_1766467675452",
+      "node_1766467679649",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467754309",
+      "node_1766467757618",
+      "node_1766467763473",
+      "node_1766467765985",
+      "node_1766467768899"
+    ],
+    "node_1766467763473": [
+      "node_1766467535149",
+      "node_1766467675452",
+      "node_1766467679649",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467754309",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467765985",
+      "node_1766467768899"
+    ],
+    "node_1766467765985": [
+      "node_1766467535149",
+      "node_1766467675452",
+      "node_1766467679649",
+      "node_1766467701805",
+      "node_1766467707054",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467763473",
+      "node_1766467768899",
+      "node_1766467771474"
+    ],
+    "node_1766467768899": [
+      "node_1766467535149",
+      "node_1766467707054",
+      "node_1766467757618",
+      "node_1766467760311",
+      "node_1766467763473",
+      "node_1766467765985",
+      "node_1766467771474",
+      "node_1766467774493"
+    ],
+    "node_1766467771474": [
+      "node_1766027650192",
+      "node_1766467765985",
+      "node_1766467768899",
+      "node_1766467774493",
+      "node_1766467776556"
+    ],
+    "node_1766467774493": [
+      "node_1766027650192",
+      "node_1766467768899",
+      "node_1766467771474",
+      "node_1766467776556"
+    ],
+    "node_1766467776556": [
+      "node_1766027650192",
+      "node_1766467542717",
+      "node_1766467771474",
+      "node_1766467774493",
+      "node_1766467780004",
+      "node_1766469489169",
+      "node_1766469492439"
+    ],
+    "node_1766467780004": [
+      "node_1766467542717",
+      "node_1766467548081",
+      "node_1766467776556",
+      "node_1766467885678",
+      "node_1766469487414",
+      "node_1766469489169",
+      "node_1766469492439"
+    ],
+    "node_1766467797156": [
+      "node_1766467559338",
+      "node_1766467688400",
+      "node_1766467693899",
+      "node_1766467699217",
+      "node_1766467714762",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467726337",
+      "node_1766467799831"
+    ],
+    "node_1766467799831": [
+      "node_1766467559338",
+      "node_1766467720432",
+      "node_1766467722470",
+      "node_1766467797156",
+      "node_1766467802581"
+    ],
+    "node_1766467802581": [
+      "node_1766027679186",
+      "node_1766467799831",
+      "node_1766467804987"
+    ],
+    "node_1766467804987": [
+      "node_1766027679186",
+      "node_1766467565280",
+      "node_1766467802581",
+      "node_1766467810203",
+      "node_1766469548457",
+      "node_1766469588412"
+    ],
+    "node_1766467810203": [
+      "node_1766045486694",
+      "node_1766467565280",
+      "node_1766467804987",
+      "node_1766469548457",
+      "node_1766469553057",
+      "node_1766469584457",
+      "node_1766469588412"
+    ],
+    "node_1766467885678": [
+      "node_1766027709349",
+      "node_1766467542717",
+      "node_1766467548081",
+      "node_1766467780004",
+      "node_1766469489169",
+      "node_1766469492439",
+      "node_1766469514242",
+      "node_1766469523876",
+      "node_1766469527082"
+    ],
+    "node_1766469483155": [
+      "node_1766469487414",
+      "node_1766469489169",
+      "node_1766469502017",
+      "node_1766469504123",
+      "node_1766469507921"
+    ],
+    "node_1766469487414": [
+      "node_1766467542717",
+      "node_1766467780004",
+      "node_1766469483155",
+      "node_1766469489169",
+      "node_1766469492439",
+      "node_1766469502017",
+      "node_1766469504123",
+      "node_1766469514242"
+    ],
+    "node_1766469489169": [
+      "node_1766027709349",
+      "node_1766467542717",
+      "node_1766467548081",
+      "node_1766467776556",
+      "node_1766467780004",
+      "node_1766467885678",
+      "node_1766469483155",
+      "node_1766469487414",
+      "node_1766469492439",
+      "node_1766469502017",
+      "node_1766469504123",
+      "node_1766469514242",
+      "node_1766469523876"
+    ],
+    "node_1766469492439": [
+      "node_1766027709349",
+      "node_1766467542717",
+      "node_1766467548081",
+      "node_1766467776556",
+      "node_1766467780004",
+      "node_1766467885678",
+      "node_1766469487414",
+      "node_1766469489169",
+      "node_1766469523876"
+    ],
+    "node_1766469502017": [
+      "node_1766469483155",
+      "node_1766469487414",
+      "node_1766469489169",
+      "node_1766469504123",
+      "node_1766469507921",
+      "node_1766469514242"
+    ],
+    "node_1766469504123": [
+      "node_1766469483155",
+      "node_1766469487414",
+      "node_1766469489169",
+      "node_1766469502017",
+      "node_1766469507921",
+      "node_1766469514242",
+      "node_1766469523876"
+    ],
+    "node_1766469507921": [
+      "node_1766469483155",
+      "node_1766469502017",
+      "node_1766469504123",
+      "node_1766469514242",
+      "node_1766469523876"
+    ],
+    "node_1766469514242": [
+      "node_1766027709349",
+      "node_1766467548081",
+      "node_1766467885678",
+      "node_1766469487414",
+      "node_1766469489169",
+      "node_1766469502017",
+      "node_1766469504123",
+      "node_1766469507921",
+      "node_1766469523876",
+      "node_1766469527082"
+    ],
+    "node_1766469523876": [
+      "node_1766027709349",
+      "node_1766467548081",
+      "node_1766467885678",
+      "node_1766469489169",
+      "node_1766469492439",
+      "node_1766469504123",
+      "node_1766469507921",
+      "node_1766469514242",
+      "node_1766469527082"
+    ],
+    "node_1766469527082": [
+      "node_1766027709349",
+      "node_1766467548081",
+      "node_1766467885678",
+      "node_1766469514242",
+      "node_1766469523876"
+    ],
+    "node_1766469548457": [
+      "node_1766045486694",
+      "node_1766467565280",
+      "node_1766467804987",
+      "node_1766467810203",
+      "node_1766469553057",
+      "node_1766469555384",
+      "node_1766469581936",
+      "node_1766469584457",
+      "node_1766469588412"
+    ],
+    "node_1766469553057": [
+      "node_1766045486694",
+      "node_1766467565280",
+      "node_1766467810203",
+      "node_1766469548457",
+      "node_1766469555384",
+      "node_1766469558550",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469581936",
+      "node_1766469584457",
+      "node_1766469588412"
+    ],
+    "node_1766469555384": [
+      "node_1766045486694",
+      "node_1766469548457",
+      "node_1766469553057",
+      "node_1766469558550",
+      "node_1766469560908",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469581936",
+      "node_1766469584457",
+      "node_1766469588412"
+    ],
+    "node_1766469558550": [
+      "node_1766469553057",
+      "node_1766469555384",
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469581936",
+      "node_1766469584457",
+      "node_1766469689336"
+    ],
+    "node_1766469560908": [
+      "node_1766467573388",
+      "node_1766469555384",
+      "node_1766469558550",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469581936",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469689336"
+    ],
+    "node_1766469564679": [
+      "node_1766467573388",
+      "node_1766469558550",
+      "node_1766469560908",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469689336",
+      "node_1766469700712"
+    ],
+    "node_1766469567663": [
+      "node_1766467573388",
+      "node_1766469558550",
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469600439",
+      "node_1766469689336",
+      "node_1766469700712"
+    ],
+    "node_1766469569776": [
+      "node_1766467573388",
+      "node_1766469555384",
+      "node_1766469558550",
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469581936",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469689336",
+      "node_1766469700712"
+    ],
+    "node_1766469573160": [
+      "node_1766467573388",
+      "node_1766469553057",
+      "node_1766469555384",
+      "node_1766469558550",
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469579084",
+      "node_1766469581936",
+      "node_1766469584457",
+      "node_1766469594710",
+      "node_1766469689336"
+    ],
+    "node_1766469579084": [
+      "node_1766469553057",
+      "node_1766469555384",
+      "node_1766469558550",
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469581936",
+      "node_1766469584457"
+    ],
+    "node_1766469581936": [
+      "node_1766045486694",
+      "node_1766467565280",
+      "node_1766469548457",
+      "node_1766469553057",
+      "node_1766469555384",
+      "node_1766469558550",
+      "node_1766469560908",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469584457",
+      "node_1766469588412"
+    ],
+    "node_1766469584457": [
+      "node_1766045486694",
+      "node_1766467565280",
+      "node_1766467810203",
+      "node_1766469548457",
+      "node_1766469553057",
+      "node_1766469555384",
+      "node_1766469558550",
+      "node_1766469573160",
+      "node_1766469579084",
+      "node_1766469581936",
+      "node_1766469588412"
+    ],
+    "node_1766469588412": [
+      "node_1766045486694",
+      "node_1766467565280",
+      "node_1766467804987",
+      "node_1766467810203",
+      "node_1766469548457",
+      "node_1766469553057",
+      "node_1766469555384",
+      "node_1766469581936",
+      "node_1766469584457"
+    ],
+    "node_1766469594710": [
+      "node_1766045394495",
+      "node_1766467573388",
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469596710",
+      "node_1766469600439",
+      "node_1766469689336",
+      "node_1766469700712"
+    ],
+    "node_1766469596710": [
+      "node_1766045394495",
+      "node_1766467573388",
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469594710",
+      "node_1766469600439",
+      "node_1766469605630",
+      "node_1766469689336",
+      "node_1766469700712"
+    ],
+    "node_1766469600439": [
+      "node_1766045394495",
+      "node_1766467584055",
+      "node_1766469567663",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469605630",
+      "node_1766469608069",
+      "node_1766469611858"
+    ],
+    "node_1766469605630": [
+      "node_1766045394495",
+      "node_1766467584055",
+      "node_1766469596710",
+      "node_1766469600439",
+      "node_1766469608069",
+      "node_1766469611858",
+      "node_1766469617986",
+      "node_1766469620040"
+    ],
+    "node_1766469608069": [
+      "node_1766045394495",
+      "node_1766467584055",
+      "node_1766469600439",
+      "node_1766469605630",
+      "node_1766469611858",
+      "node_1766469617986",
+      "node_1766469620040",
+      "node_1766469624386"
+    ],
+    "node_1766469611858": [
+      "node_1766045394495",
+      "node_1766467584055",
+      "node_1766469600439",
+      "node_1766469605630",
+      "node_1766469608069",
+      "node_1766469617986",
+      "node_1766469620040",
+      "node_1766469624386",
+      "node_1766469626613"
+    ],
+    "node_1766469617986": [
+      "node_1766045394495",
+      "node_1766467584055",
+      "node_1766469605630",
+      "node_1766469608069",
+      "node_1766469611858",
+      "node_1766469620040",
+      "node_1766469624386",
+      "node_1766469626613",
+      "node_1766469629877"
+    ],
+    "node_1766469620040": [
+      "node_1766045364458",
+      "node_1766467584055",
+      "node_1766469605630",
+      "node_1766469608069",
+      "node_1766469611858",
+      "node_1766469617986",
+      "node_1766469624386",
+      "node_1766469626613",
+      "node_1766469629877",
+      "node_1766469632227"
+    ],
+    "node_1766469624386": [
+      "node_1766027941943",
+      "node_1766045364458",
+      "node_1766467584055",
+      "node_1766469608069",
+      "node_1766469611858",
+      "node_1766469617986",
+      "node_1766469620040",
+      "node_1766469626613",
+      "node_1766469629877",
+      "node_1766469632227"
+    ],
+    "node_1766469626613": [
+      "node_1766027941943",
+      "node_1766045364458",
+      "node_1766467584055",
+      "node_1766467589747",
+      "node_1766469611858",
+      "node_1766469617986",
+      "node_1766469620040",
+      "node_1766469624386",
+      "node_1766469629877",
+      "node_1766469632227",
+      "node_1766469636273"
+    ],
+    "node_1766469629877": [
+      "node_1766027941943",
+      "node_1766045364458",
+      "node_1766467589747",
+      "node_1766467595041",
+      "node_1766469617986",
+      "node_1766469620040",
+      "node_1766469624386",
+      "node_1766469626613",
+      "node_1766469632227",
+      "node_1766469636273",
+      "node_1766469639284"
+    ],
+    "node_1766469632227": [
+      "node_1766027941943",
+      "node_1766467589747",
+      "node_1766467595041",
+      "node_1766469620040",
+      "node_1766469624386",
+      "node_1766469626613",
+      "node_1766469629877",
+      "node_1766469636273",
+      "node_1766469639284",
+      "node_1766469643126"
+    ],
+    "node_1766469636273": [
+      "node_1766027941943",
+      "node_1766467589747",
+      "node_1766467595041",
+      "node_1766469626613",
+      "node_1766469629877",
+      "node_1766469632227",
+      "node_1766469639284",
+      "node_1766469643126",
+      "node_1766469645553"
+    ],
+    "node_1766469639284": [
+      "node_1766027941943",
+      "node_1766467589747",
+      "node_1766467595041",
+      "node_1766469629877",
+      "node_1766469632227",
+      "node_1766469636273",
+      "node_1766469643126",
+      "node_1766469645553",
+      "node_1766469648347"
+    ],
+    "node_1766469643126": [
+      "node_1766027941943",
+      "node_1766467589747",
+      "node_1766467595041",
+      "node_1766469632227",
+      "node_1766469636273",
+      "node_1766469639284",
+      "node_1766469645553",
+      "node_1766469648347",
+      "node_1766469651473"
+    ],
+    "node_1766469645553": [
+      "node_1766027941943",
+      "node_1766467595041",
+      "node_1766469636273",
+      "node_1766469639284",
+      "node_1766469643126",
+      "node_1766469648347",
+      "node_1766469651473",
+      "node_1766469653988"
+    ],
+    "node_1766469648347": [
+      "node_1766027941943",
+      "node_1766469639284",
+      "node_1766469643126",
+      "node_1766469645553",
+      "node_1766469651473",
+      "node_1766469653988"
+    ],
+    "node_1766469651473": [
+      "node_1766027941943",
+      "node_1766469643126",
+      "node_1766469645553",
+      "node_1766469648347",
+      "node_1766469653988",
+      "node_1766469657238"
+    ],
+    "node_1766469653988": [
+      "node_1766045335899",
+      "node_1766469645553",
+      "node_1766469648347",
+      "node_1766469651473",
+      "node_1766469657238",
+      "node_1766469660240"
+    ],
+    "node_1766469657238": [
+      "node_1766045335899",
+      "node_1766469651473",
+      "node_1766469653988",
+      "node_1766469660240",
+      "node_1766469663420"
+    ],
+    "node_1766469660240": [
+      "node_1766045335899",
+      "node_1766469653988",
+      "node_1766469657238",
+      "node_1766469663420",
+      "node_1766469665425"
+    ],
+    "node_1766469663420": [
+      "node_1766045335899",
+      "node_1766469657238",
+      "node_1766469660240",
+      "node_1766469665425",
+      "node_1766469668368"
+    ],
+    "node_1766469665425": [
+      "node_1766045335899",
+      "node_1766469660240",
+      "node_1766469663420",
+      "node_1766469668368",
+      "node_1766469670994"
+    ],
+    "node_1766469668368": [
+      "node_1766467601400",
+      "node_1766469663420",
+      "node_1766469665425",
+      "node_1766469670994",
+      "node_1766469674212"
+    ],
+    "node_1766469670994": [
+      "node_1766467601400",
+      "node_1766469665425",
+      "node_1766469668368",
+      "node_1766469674212"
+    ],
+    "node_1766469674212": [
+      "node_1766467601400",
+      "node_1766469668368",
+      "node_1766469670994"
+    ],
+    "node_1766469689336": [
+      "node_1766467573388",
+      "node_1766469558550",
+      "node_1766469560908",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469573160",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469700712"
+    ],
+    "node_1766469700712": [
+      "node_1766467573388",
+      "node_1766469564679",
+      "node_1766469567663",
+      "node_1766469569776",
+      "node_1766469594710",
+      "node_1766469596710",
+      "node_1766469689336"
+    ],
+    "node_1767325776634": [
+      "node_1766045425975",
+      "node_1766467733820",
+      "node_1766467738022",
+      "node_1766467740990",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325796285",
+      "node_1767325798841",
+      "node_1767325802122"
+    ],
+    "node_1767325781423": [
+      "node_1766045425975",
+      "node_1766467553308",
+      "node_1766467738022",
+      "node_1766467740990",
+      "node_1767325776634",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325793389",
+      "node_1767325796285",
+      "node_1767325798841",
+      "node_1767325802122",
+      "node_1767325806699",
+      "node_1767325809548"
+    ],
+    "node_1767325783578": [
+      "node_1766045425975",
+      "node_1766467553308",
+      "node_1767325776634",
+      "node_1767325781423",
+      "node_1767325788497",
+      "node_1767325793389",
+      "node_1767325796285",
+      "node_1767325798841",
+      "node_1767325802122",
+      "node_1767325806699",
+      "node_1767325809548"
+    ],
+    "node_1767325788497": [
+      "node_1766467553308",
+      "node_1767325776634",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325793389",
+      "node_1767325796285",
+      "node_1767325798841",
+      "node_1767325802122",
+      "node_1767325806699",
+      "node_1767325809548"
+    ],
+    "node_1767325793389": [
+      "node_1766467553308",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325798841",
+      "node_1767325802122",
+      "node_1767325806699",
+      "node_1767325809548"
+    ],
+    "node_1767325796285": [
+      "node_1766045425975",
+      "node_1766467728362",
+      "node_1766467733820",
+      "node_1766467738022",
+      "node_1766467740990",
+      "node_1767325776634",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325798841",
+      "node_1767325802122",
+      "node_1767325806699"
+    ],
+    "node_1767325798841": [
+      "node_1766045425975",
+      "node_1766467553308",
+      "node_1766467738022",
+      "node_1766467740990",
+      "node_1767325776634",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325793389",
+      "node_1767325796285",
+      "node_1767325802122",
+      "node_1767325806699",
+      "node_1767325809548"
+    ],
+    "node_1767325802122": [
+      "node_1766045425975",
+      "node_1766467553308",
+      "node_1767325776634",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325793389",
+      "node_1767325796285",
+      "node_1767325798841",
+      "node_1767325806699",
+      "node_1767325809548"
+    ],
+    "node_1767325806699": [
+      "node_1766467553308",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325793389",
+      "node_1767325796285",
+      "node_1767325798841",
+      "node_1767325802122",
+      "node_1767325809548"
+    ],
+    "node_1767325809548": [
+      "node_1766467553308",
+      "node_1767325781423",
+      "node_1767325783578",
+      "node_1767325788497",
+      "node_1767325793389",
+      "node_1767325798841",
+      "node_1767325802122",
+      "node_1767325806699"
+    ]
+  },
+  "lastUpdated": "2026-01-02T03:50:33.946Z"
+}

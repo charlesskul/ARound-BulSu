@@ -1,0 +1,270 @@
+{
+  "buildings": [
+    {
+      "id": 1,
+      "name": "Pimentel Hall",
+      "coordinates": {
+        "latitude": 14.856954286635439,
+        "longitude": 120.81336001597371
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "Office of the President",
+        "Registrar Office",
+        "Clinic"
+      ],
+      "description": "Main administrative building of Bulacan State University",
+      "evacuationArea": "Front Grounds",
+      "floorCount": 3
+    },
+    {
+      "id": 2,
+      "name": "Roxas Hall",
+      "coordinates": {
+        "latitude": 14.857360666905498,
+        "longitude": 120.81421765230593
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "College of Engineering",
+        "Engineering Dean Office"
+      ],
+      "description": "Home of the College of Engineering",
+      "evacuationArea": "Engineering Grounds",
+      "floorCount": 4
+    },
+    {
+      "id": 3,
+      "name": "Alvarado Hall",
+      "coordinates": {
+        "latitude": 14.857551353473594,
+        "longitude": 120.81588497195935
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "College of Education",
+        "Education Dean Office"
+      ],
+      "description": "College of Education building",
+      "evacuationArea": "Activity Center",
+      "floorCount": 3
+    },
+    {
+      "id": 4,
+      "name": "Natividad Hall",
+      "coordinates": {
+        "latitude": 14.857522099097627,
+        "longitude": 120.81425374502058
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "College of Nursing",
+        "Nursing Skills Lab"
+      ],
+      "description": "College of Nursing building",
+      "evacuationArea": "Front Grounds",
+      "floorCount": 3
+    },
+    {
+      "id": 5,
+      "name": "Carpio Hall",
+      "coordinates": {
+        "latitude": 14.857826192446987,
+        "longitude": 120.81364542241838
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "College of Business Administration",
+        "CBA Dean Office"
+      ],
+      "description": "College of Business Administration",
+      "evacuationArea": "Rizal Monument Area",
+      "floorCount": 4
+    },
+    {
+      "id": 6,
+      "name": "Federizo Hall",
+      "coordinates": {
+        "latitude": 14.858561395224402,
+        "longitude": 120.81475739456756
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "College of Science",
+        "CS Dean Office",
+        "College of Architecture and Fine Arts",
+        "College of Arts and Letters"
+      ],
+      "description": "Multi-college building housing Science, Architecture, and Arts programs",
+      "evacuationArea": "Front Grounds",
+      "floorCount": 4
+    },
+    {
+      "id": 7,
+      "name": "CHTM Building",
+      "coordinates": {
+        "latitude": 14.858645664137148,
+        "longitude": 120.81332289382136
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "College of Hospitality and Tourism Management",
+        "CHTM Kitchen Lab"
+      ],
+      "description": "College of Hospitality and Tourism Management",
+      "evacuationArea": "CHTM Grounds",
+      "floorCount": 3
+    },
+    {
+      "id": 8,
+      "name": "CBA Building",
+      "coordinates": {
+        "latitude": 14.8515,
+        "longitude": 120.8146
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "Accounting Department",
+        "Marketing Department"
+      ],
+      "description": "Additional CBA facilities",
+      "evacuationArea": "Activity Center",
+      "floorCount": 3
+    },
+    {
+      "id": 9,
+      "name": "Flores Hall",
+      "coordinates": {
+        "latitude": 14.8512,
+        "longitude": 120.814
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "College of Information and Communications Technology",
+        "ICT Dean Office",
+        "Computer Labs"
+      ],
+      "description": "College of ICT main building",
+      "evacuationArea": "ICT Grounds",
+      "floorCount": 4
+    },
+    {
+      "id": 10,
+      "name": "Valencia Hall",
+      "coordinates": {
+        "latitude": 14.851,
+        "longitude": 120.8148
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "Graduate School",
+        "Research Office"
+      ],
+      "description": "Graduate School building",
+      "evacuationArea": "Valencia Grounds",
+      "floorCount": 3
+    },
+    {
+      "id": 11,
+      "name": "Athletes Building",
+      "coordinates": {
+        "latitude": 14.8539,
+        "longitude": 120.8135
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "Physical Education Department",
+        "Sports Office",
+        "Gym"
+      ],
+      "description": "Sports and athletics facilities",
+      "evacuationArea": "Athletic Field",
+      "floorCount": 2
+    },
+    {
+      "id": 12,
+      "name": "Marcelo H. del Pilar College of Law Building",
+      "coordinates": {
+        "latitude": 14.8523,
+        "longitude": 120.8155
+      },
+      "distance": 0,
+      "image": null,
+      "offices": [
+        "College of Law",
+        "Moot Court"
+      ],
+      "description": "College of Law building",
+      "evacuationArea": "Law Grounds",
+      "floorCount": 3
+    }
+  ],
+  "evacuationAreas": [
+    {
+      "id": 101,
+      "name": "Front Grounds (Main Entrance)",
+      "coordinates": {
+        "latitude": 14.8518,
+        "longitude": 120.8152
+      },
+      "capacity": 500,
+      "isMain": true
+    },
+    {
+      "id": 102,
+      "name": "Activity Center",
+      "coordinates": {
+        "latitude": 14.8522,
+        "longitude": 120.8145
+      },
+      "capacity": 300,
+      "isMain": false
+    },
+    {
+      "id": 103,
+      "name": "Rizal Monument Area",
+      "coordinates": {
+        "latitude": 14.853,
+        "longitude": 120.8148
+      },
+      "capacity": 200,
+      "isMain": false
+    },
+    {
+      "id": 104,
+      "name": "Athletic Field",
+      "coordinates": {
+        "latitude": 14.854,
+        "longitude": 120.8132
+      },
+      "capacity": 1000,
+      "isMain": true
+    }
+  ],
+  "mapConfig": {
+    "initialRegion": {
+      "latitude": 14.8524,
+      "longitude": 120.8147,
+      "latitudeDelta": 0.004,
+      "longitudeDelta": 0.004
+    },
+    "bulsuBounds": {
+      "north": 14.8545,
+      "south": 14.85,
+      "east": 120.817,
+      "west": 120.8125
+    }
+  },
+  "lastUpdated": "2025-12-17T13:23:52.303Z"
+}
